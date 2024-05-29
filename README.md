@@ -6,7 +6,7 @@
   <li>Run <b>npm i pg</b> to install postgres.</li> 
   <li>Run <b>nodemon index.js</b> .</li> 
   <li>Create a database in pgadmin.</li> 
-  <li>Use the table 'countries' to check for the country codes.</li> 
+  <li>Upload the table 'capitals' into pgadmin to get the countries and its capitals.</li> 
   <li>Open the page in http://localhost:3000/ to try it out!</li> 
 </ul>
 <br>
